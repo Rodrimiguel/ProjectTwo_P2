@@ -23,7 +23,7 @@ public class PrivacyModel : PageModel
 
      Data = new Form(); // crando el objeto.
      Data.Mail = parametro;
-     Data.Password = "1234";
+     Data.Password = "12345";
     
     }
 
