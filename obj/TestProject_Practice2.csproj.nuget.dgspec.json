@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Rodrigo\\Desktop\\Proyects\\TestProyect_Practice2\\TestProyect_Practice2.csproj": {}
+    "C:\\Users\\Rodrigo\\Desktop\\Proyects\\TestProject_Practice2\\TestProject_Practice2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Rodrigo\\Desktop\\Proyects\\TestProyect_Practice2\\TestProyect_Practice2.csproj": {
+    "C:\\Users\\Rodrigo\\Desktop\\Proyects\\TestProject_Practice2\\TestProject_Practice2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rodrigo\\Desktop\\Proyects\\TestProyect_Practice2\\TestProyect_Practice2.csproj",
-        "projectName": "TestProyect_Practice2",
-        "projectPath": "C:\\Users\\Rodrigo\\Desktop\\Proyects\\TestProyect_Practice2\\TestProyect_Practice2.csproj",
+        "projectUniqueName": "C:\\Users\\Rodrigo\\Desktop\\Proyects\\TestProject_Practice2\\TestProject_Practice2.csproj",
+        "projectName": "TestProject_Practice2",
+        "projectPath": "C:\\Users\\Rodrigo\\Desktop\\Proyects\\TestProject_Practice2\\TestProject_Practice2.csproj",
         "packagesPath": "C:\\Users\\Rodrigo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rodrigo\\Desktop\\Proyects\\TestProyect_Practice2\\obj\\",
+        "outputPath": "C:\\Users\\Rodrigo\\Desktop\\Proyects\\TestProject_Practice2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
